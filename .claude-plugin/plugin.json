@@ -2,13 +2,11 @@
   "name": "claude-mcp-wrapper",
   "version": "1.0.0",
   "description": "Generate efficient CLI wrappers for MCP servers following progressive disclosure and code API patterns",
-  "author": "Bruno",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brunogama/claude-mcp-wrapper"
+  "author": {
+    "name": "Bruno Gama"
   },
-  "minimumClaudeVersion": "0.1.0",
+  "license": "MIT",
+  "repository": "https://github.com/brunogama/claude-mcp-wrapper",
   "keywords": [
     "mcp",
     "cli",
