@@ -1,0 +1,28 @@
+{
+  "name": "mcp-wrapper-marketplace",
+  "owner": {
+    "name": "Bruno Gama",
+    "email": "bruno@brunogama.com"
+  },
+  "metadata": {
+    "description": "CLI wrapper generator for MCP servers with progressive disclosure patterns",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-mcp-wrapper",
+      "source": "./",
+      "description": "Generate efficient CLI wrappers for MCP servers following progressive disclosure and code API patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bruno Gama"
+      },
+      "homepage": "https://github.com/brunogama/claude-mcp-wrapper",
+      "repository": "https://github.com/brunogama/claude-mcp-wrapper",
+      "license": "MIT",
+      "keywords": ["mcp", "cli", "wrapper", "token-efficiency", "progressive-disclosure"],
+      "category": "developer-tools",
+      "tags": ["mcp", "cli", "automation", "code-generation"]
+    }
+  ]
+}
